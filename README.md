@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lrondan
-- 👀 I’m interested in Data Analyst
+- 👀 I’m interested in Data Analyst, Web Apps & Cybersecurity
 - 🌱 I’m currently learning programming in python
 - 💞️ I’m looking to collaborate on Data Science
 
